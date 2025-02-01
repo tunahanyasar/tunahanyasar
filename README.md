@@ -3,8 +3,8 @@
 ![Header](./github-header-image.png)
 
 
-➤  I graduated with a degree in Computer Programming from Istanbul Aydın University. I live in Istanbul, Turkey. 
-➤ I am currently improving my skills in Frontend Web Development and supporting this journey by participating in the Patika+ Frontend Web Developer Bootcamp. 
+➤ I graduated with a degree in Computer Programming from Istanbul Aydın University. I live in Istanbul, Turkey. <br>
+➤ I am currently improving my skills in Frontend Web Development and supporting this journey by participating in the Patika+ Frontend Web Developer Bootcamp. <br>
 ➤ I am passionate about building interactive and user-friendly web applications, constantly learning new technologies, and improving my coding skills.
 
 Skills: JS / HTML / CSS
